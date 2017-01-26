@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:arabLit:0355MuhammadKindi" projid="arabLit:QudatMisr" urn="urn:cts:arabLit:0355MuhammadKindi.QudatMisr" xml:lang="ara">
-    <ti:title xml:lang="eng">Qudat Misr</ti:title>
-    <ti:edition urn="arabLit:0355MuhammadKindi.QudatMisr.Shamela0012831-ara1" workUrn="arabLit:0355MuhammadKindi.QudatMisr">
-        <ti:label xml:lang="eng">Qudat Misr</ti:label>
-        <ti:description xml:lang="eng">http://shamela.ws/index.php/book/12831 </ti:description>
-        </ti:edition>
-</ti:work>
